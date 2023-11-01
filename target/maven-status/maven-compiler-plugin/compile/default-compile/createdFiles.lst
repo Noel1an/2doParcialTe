@@ -1,0 +1,6 @@
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\modelo\categoria.class
+com\emergentes\modelo\Libro.class
+emergentes\JakartaRestConfiguration.class
+emergentes\resources\JakartaEE8Resource.class
+com\emergentes\controlador\MainController.class
